@@ -1,3 +1,4 @@
+/* General styling */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -101,16 +102,4 @@ footer p {
     margin: 0;
     font-size: 0.9rem;
     color: #333;
-}
-
-.footer-links i {
-    font-size: 30px; /* Icon size */
-    color: #333; /* Icon color */
-    margin: 0 10px;
-    transition: transform 0.3s ease;
-}
-
-.footer-links i:hover {
-    color: #007bff; /* Change color on hover */
-    transform: scale(1.1);
 }
